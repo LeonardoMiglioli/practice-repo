@@ -1,27 +1,21 @@
-## First Name Last Name
+## Leonardo Miglioli
 
-### Term Year 
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre Calculus
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Intro to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Gaming
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
