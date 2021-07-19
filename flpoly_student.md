@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ## Leonardo Miglioli
 
 ### Summer 2021 
@@ -19,4 +24,10 @@ I am _passionate about_:
 ***
 
 > Last modified: 2021/07/07
+
+| Prefix   |              Name             | Credits       |
+| :---     |             :----:            |         ---:  |
+| MAC1147  | Pre Calculus                  |      4        |
+| COP2073  | Intro to Data Science         |      3        |
+
 
